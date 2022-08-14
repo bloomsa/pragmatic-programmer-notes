@@ -1,0 +1,2 @@
+- look into extending command completion for common things like docker, git, kubectl, etc.
+- poke around in iterm 
